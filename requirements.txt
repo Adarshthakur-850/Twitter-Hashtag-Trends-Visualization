@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
@@ -6,3 +7,13 @@ scikit-learn
 nltk
 wordcloud
 requests
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+wordcloud
+requests
+>>>>>>> 79634237ea655520f03b06be34bcf794e690af6c
